@@ -1,7 +1,6 @@
 - Hi, I’m @Julenrc
 - Interested in GameDev
 - Working with Unity, C#
-- juanfox0190@gmail.com
 
 <!---
 Julenrc/Julenrc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
